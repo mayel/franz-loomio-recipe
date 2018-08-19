@@ -1,0 +1,21 @@
+{
+    "id": "loomio",
+    "name": "Loomio",
+    "version": "0.1",
+    "description": "Loomio - make decisions without meetings",
+    "main": "index.js",
+    "author": "Mayel de Borniol <foss@mayel.space>",
+    "license": "AGPLv3",
+    "repository": "",
+    "config": {
+        "serviceURL": "https://www.loomio.org/dashboard",
+        "message": "",
+        "popup": [],
+        "hasNotificationSound": true,
+        "hasDirectMessages": true,
+        "hasIndirectMessages": false,
+        "hasTeamID": false,
+        "hasPredefinedUrl": true,
+        "hasCustomUrl": false
+    }
+}
